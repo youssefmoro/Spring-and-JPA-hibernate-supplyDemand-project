@@ -1,9 +1,9 @@
 package dataTransferCommProject.example.RestApis;
 
-import dataTransferCommProject.example.RestApis.Models.AccountModel;
-import dataTransferCommProject.example.RestApis.Models.InventoryModel;
-import dataTransferCommProject.example.RestApis.Models.OrderModel;
-import dataTransferCommProject.example.RestApis.Utils.ConstantsAndConfig;
+import dataTransferCommProject.example.RestApis.models.AccountModel;
+import dataTransferCommProject.example.RestApis.models.InventoryModel;
+import dataTransferCommProject.example.RestApis.models.OrderModel;
+import dataTransferCommProject.example.RestApis.utils.ConstantsAndConfig;
 
 import java.util.ArrayList;
 import java.util.List;
